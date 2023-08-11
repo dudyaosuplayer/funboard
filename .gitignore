@@ -1,2 +1,3 @@
 .venv
-tz.txt
+.git
+**/__pycache__/
