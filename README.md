@@ -1,0 +1,2 @@
+# funboard
+Django web application
